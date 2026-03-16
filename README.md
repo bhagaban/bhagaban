@@ -1,12 +1,21 @@
-# 👋 Hey, I’m Bhagaban  
+# 👋 Hey, I’m Bhagaban
 
-I’m building [**Affogato AI**](https://affogato.ai) — an **AI video agent** that turns rough ideas into TikToks, Reels, and ads.  
+I run a small lab for **AI experiments**.
 
-🎥 Obsessed with **AI media + storytelling**  
-📍 Based in **San Francisco**  
-🚀 **YC founder**  
+Exploring how agents, media, and software change when intelligence becomes cheap.
 
-Always curious about how tech reshapes creativity.  
+→ **[asymmetric.works](https://asymmetric.works/)**
+
+---
+
+🎬 AI media  
+🤖 AI agents  
+🚀 YC founder  
+📍 San Francisco  
+
+---
+
+Building things to see what breaks (and what works).
 
 Let’s connect → [LinkedIn](https://www.linkedin.com/in/bhagaban/) | [X](https://x.com/bhoga)  
 
