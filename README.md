@@ -4,8 +4,6 @@ I run a small lab for **AI experiments**.
 
 Exploring how agents, media, and software change when intelligence becomes cheap.
 
-→ **[asymmetric.works](https://asymmetric.works/)**
-
 ---
 
 🎬 AI media  
