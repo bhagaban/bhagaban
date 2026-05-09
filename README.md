@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Bhagaban
 
-I run a small lab for **AI experiments**.
+I run  **AI experiments**.
 
 Exploring how agents, media, and software change when intelligence becomes cheap.
 
